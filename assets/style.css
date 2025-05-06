@@ -1,0 +1,6 @@
+/* Customiza cores do Streamlit */
+[data-testid="stAppViewContainer"] {
+    background-color: #0e130f;
+}
+
+st.markdown("<style>@import url('assets/style.css');</style>", unsafe_allow_html=True)

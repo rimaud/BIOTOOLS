@@ -1,0 +1,6 @@
+streamlit
+biopython
+py3Dmol
+pandas
+requests
+matplotlib
